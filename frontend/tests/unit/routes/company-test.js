@@ -2,7 +2,7 @@
 import { expect } from 'chai';
 import { describeModule, it } from 'ember-mocha';
 
-describeModule('route:rooms', 'Unit | Route | rooms',
+describeModule('route:company', 'Unit | Route | company',
   {
     // Specify the other units that are required for this test.
     // needs: ['controller:foo']
